@@ -1,0 +1,81 @@
+; Packaging information for foodweb profile
+name = "foodweb"
+description = ""
+exclusive = "1"
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+; Administration
+dependencies[] = admin_devel
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+; Chaos tool suite
+dependencies[] = ctools
+; Core
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = user
+; Date/Time
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_views
+; Fields
+dependencies[] = addressfield
+dependencies[] = entityreference
+dependencies[] = link
+; Input filters
+dependencies[] = pathologic
+; Other
+dependencies[] = better_formats
+dependencies[] = entity
+dependencies[] = jquery_update
+dependencies[] = libraries
+dependencies[] = pathauto
+dependencies[] = subpathauto
+dependencies[] = redirect
+dependencies[] = strongarm
+dependencies[] = token
+; User interface
+dependencies[] = ckeditor
+; Views
+dependencies[] = better_exposed_filters
+dependencies[] = views
+dependencies[] = views_autocomplete_filters
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+; Features
+dependencies[] = features
+dependencies[] = collabco_core_feature
+dependencies[] = collabco_formats_feature
+dependencies[] = collabco_formats_feature
+dependencies[] = collabco_spam_feature
+dependencies[] = off_basic_page_feature
+dependencies[] = off_blog_feature
+dependencies[] = off_categories_feature
+dependencies[] = collabco_login_feature
+dependencies[] = off_image_feature
+dependencies[] = off_performance_feature
+dependencies[] = off_news_feature
+dependencies[] = off_pages_feature
+dependencies[] = off_share_feature
+dependencies[] = off_tags_feature
+dependencies[] = off_tag_filter_feature
