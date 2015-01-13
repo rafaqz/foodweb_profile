@@ -5,8 +5,8 @@
  *
  * Perform actions to set up the site for this profile.
  */
-function collabco_install() {
-  // Enable some collabco blocks.
+function install() {
+  // Enable some blocks.
   $default_theme = 'custom_zurb';
   $admin_theme = 'seven';
   // disable all themes
@@ -97,9 +97,9 @@ function collabco_install() {
   menu_rebuild();
   // revert features to ensure they are all installed
   $features = array(
-    'collabco_formats_feature',
-    'collabco_groups_feature',
-    'collabco_core_feature',
+    'formats_feature',
+    'groups_feature',
+    'core_feature',
   );
   features_revert($features);
   // ignore any rebuild messages
