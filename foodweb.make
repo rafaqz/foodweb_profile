@@ -157,6 +157,11 @@ projects[views_foundation][patch][] = "https://drupal.org/files/issues/views_fou
 
 
 ; +++++ Custom +++++
+projects[core_feature][download][type] = "git"
+projects[core_feature][download][url] = "git@github.com:rafaqz/core_feature"
+projects[core_feature][type] = "module"
+projects[core_feature][subdir] = "features"
+
 projects[formats_feature][download][type] = "git"
 projects[formats_feature][download][url] = "git@github.com:rafaqz/formats_feature"
 projects[formats_feature][type] = "module"
