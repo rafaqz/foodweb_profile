@@ -223,11 +223,6 @@ projects[tags_feature][download][url] = "git@github.com:rafaqz/tags_feature"
 projects[tags_feature][type] = "module"
 projects[tags_feature][subdir] = "features"
 
-projects[tag_filter_feature][download][type] = "git"
-projects[tag_filter_feature][download][url] = "git@github.com:rafaqz/tag_filter_feature"
-projects[tag_filter_feature][type] = "module"
-projects[tag_filter_feature][subdir] = "features"
-
 ; +++++ Themes +++++
 projects[zurb-foundation][version]= "4.0-beta2"
 projects[zurb-foundation][type] = "theme"
