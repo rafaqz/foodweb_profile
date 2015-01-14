@@ -164,7 +164,7 @@ projects[formats_feature][type] = "module"
 projects[formats_feature][subdir] = "features"
 
 projects[spam_feature][download][type] = "git"
-projects[spam_feature][download][url] = "git@github.com:pmackay/spam_feature"
+projects[spam_feature][download][url] = "git@github.com:rafaqz/spam_feature"
 projects[spam_feature][type] = "module"
 projects[spam_feature][subdir] = "features"
 
