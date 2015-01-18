@@ -75,6 +75,5 @@ dependencies[] = login_feature
 dependencies[] = image_feature
 dependencies[] = performance_feature
 dependencies[] = news_feature
-tependencies[] = pages_feature
 dependencies[] = share_feature
 tependencies[] = tags_feature

@@ -208,11 +208,6 @@ projects[news_feature][download][url] = "git@github.com:rafaqz/news_feature"
 projects[news_feature][type] = "module"
 projects[news_feature][subdir] = "features"
 
-projects[pages_feature][download][type] = "git"
-projects[pages_feature][download][url] = "git@github.com:rafaqz/pages_feature"
-projects[pages_feature][type] = "module"
-projects[pages_feature][subdir] = "features"
-
 projects[share_feature][download][type] = "git"
 projects[share_feature][download][url] = "git@github.com:rafaqz/share_feature"
 projects[share_feature][type] = "module"
