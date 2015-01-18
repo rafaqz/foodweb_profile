@@ -82,6 +82,15 @@ projects[masquerade][version] = "1.0-rc7"
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.4"
 
+projects[migrate][subdir] = "contrib"
+projects[migrate][version] = "2.6"
+
+projects[migrate_extras][subdir] = "contrib"
+projects[migrate_extras][version] = "2.6"
+
+projects[wordpress_migrate][subdir] = "contrib"
+projects[wordpress_migrate][version] = "2.2"
+
 projects[og][subdir] = "contrib"
 projects[og][version] = "2.7"
 

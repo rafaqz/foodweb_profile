@@ -44,6 +44,11 @@ dependencies[] = entityreference
 dependencies[] = link
 ; Input filters
 dependencies[] = pathologic
+; Migration
+dependencies[] = migrate
+dependencies[] = migrate_ui
+dependencies[] = wordpress_migrate
+dependencies[] = migrate_extras
 ; Other
 dependencies[] = better_formats
 dependencies[] = entity
