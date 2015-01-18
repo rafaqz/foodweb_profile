@@ -228,7 +228,7 @@ projects[zurb-foundation][version]= "4.0-beta2"
 projects[zurb-foundation][type] = "theme"
 
 projects[custom_zurb][download][type] = "git"
-projects[custom_zurb][download][url] = "git@github.com:rafaqz/custom_zurb.git"
+projects[custom_zurb][download][url] = "git@github.com:rafaqz/foodweb_theme.git"
 projects[custom_zurb][type] = "theme"
 
 
