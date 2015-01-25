@@ -26,9 +26,6 @@ projects[ckeditor_media][version] = "1.x-dev"
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.6"
 
-projects[context_og][subdir] = "contrib"
-projects[context_og][version] = "2.1"
-
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.5"
 
@@ -38,14 +35,8 @@ projects[date][version] = "2.8"
 projects[devel][subdir] = "contrib"
 projects[devel][version] = "1.5"
 
-projects[diff][subdir] = "contrib"
-projects[diff][version] = "3.2"
-
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.2"
-
-projects[entityconnect][subdir] = "contrib"
-projects[entityconnect][version] = "1.0-rc1"
 
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.1"
@@ -57,9 +48,6 @@ projects[features][version] = "2.3"
 
 projects[features_extra][subdir] = "contrib"
 projects[features_extra][version] = "1.0-beta1"
-
-projects[feeds][subdir] = "contrib"
-projects[feeds][version] = "2.x-dev"
 
 projects[flag][subdir] = "contrib"
 projects[flag][version] = "3.5"
@@ -76,9 +64,6 @@ projects[libraries][version] = "2.2"
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.3"
 
-projects[masquerade][subdir] = "contrib"
-projects[masquerade][version] = "1.0-rc7"
-
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.4"
 
@@ -91,26 +76,11 @@ projects[migrate_extras][version] = "2.5"
 projects[wordpress_migrate][subdir] = "contrib"
 projects[wordpress_migrate][version] = "2.x-dev"
 
-projects[og][subdir] = "contrib"
-projects[og][version] = "2.7"
-
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
-projects[pathologic][subdir] = "contrib"
-projects[pathologic][version] = "2.12"
-
-projects[profile2][subdir] = "contrib"
-projects[profile2][version] = "1.3"
-
-projects[realname][subdir] = "contrib"
-projects[realname][version] = "1.2"
-
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
-
-projects[session_api][subdir] = "contrib"
-projects[session_api][version] = "1.0-rc1"
 
 projects[stringoverrides][subdir] = "contrib"
 projects[stringoverrides][version] = "1.8"
