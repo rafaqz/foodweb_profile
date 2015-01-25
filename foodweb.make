@@ -89,7 +89,7 @@ projects[migrate_extras][subdir] = "contrib"
 projects[migrate_extras][version] = "2.5"
 
 projects[wordpress_migrate][subdir] = "contrib"
-projects[wordpress_migrate][version] = "2.2"
+projects[wordpress_migrate][version] = "2.x-dev"
 
 projects[og][subdir] = "contrib"
 projects[og][version] = "2.7"
