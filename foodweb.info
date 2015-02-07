@@ -74,6 +74,7 @@ dependencies[] = spam_feature
 dependencies[] = basic_page_feature
 dependencies[] = blog_feature
 dependencies[] = categories_feature
+dependencies[] = featured_feaute
 dependencies[] = foodweb_custom_feature
 dependencies[] = login_feature
 dependencies[] = image_feature

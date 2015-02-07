@@ -176,6 +176,11 @@ projects[categories_feature][download][url] = "git@github.com:rafaqz/categories_
 projects[categories_feature][type] = "module"
 projects[categories_feature][subdir] = "features"
 
+projects[featured_feature][download][type] = "git"
+projects[featured_feature][download][url] = "git@github.com:rafaqz/featured_feature"
+projects[featured_feature][type] = "module"
+projects[featured_feature][subdir] = "features"
+
 projects[foodweb_custom_feature][download][type] = "git"
 projects[foodweb_custom_feature][download][url] = "git@github.com:rafaqz/foodweb_custom_feature"
 projects[foodweb_custom_feature][type] = "module"
