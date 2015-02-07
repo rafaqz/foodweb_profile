@@ -140,6 +140,11 @@ projects[integration][type] = "module"
 ;projects[integration][version] = "1.0-alpha1"
 projects[integration][subdir] = "custom"
 
+projects[simple_entity][download][type] = "git"
+projects[simple_entity][download][url] = "git@github.com:rafaqz/simple_entity"
+projects[simple_entity][type] = "module"
+projects[simple_entity][subdir] = "features"
+
 projects[core_feature][download][type] = "git"
 projects[core_feature][download][url] = "git@github.com:rafaqz/core_feature"
 projects[core_feature][type] = "module"
@@ -171,6 +176,11 @@ projects[categories_feature][download][url] = "git@github.com:rafaqz/categories_
 projects[categories_feature][type] = "module"
 projects[categories_feature][subdir] = "features"
 
+projects[foodweb_custom_feature][download][type] = "git"
+projects[foodweb_custom_feature][download][url] = "git@github.com:rafaqz/foodweb_custom_feature"
+projects[foodweb_custom_feature][type] = "module"
+projects[foodweb_custom_feature][subdir] = "features"
+
 projects[login_feature][download][type] = "git"
 projects[login_feature][download][url] = "git@github.com:rafaqz/login_feature.git"
 projects[login_feature][type] = "module"
@@ -195,6 +205,11 @@ projects[share_feature][download][type] = "git"
 projects[share_feature][download][url] = "git@github.com:rafaqz/share_feature"
 projects[share_feature][type] = "module"
 projects[share_feature][subdir] = "features"
+
+projects[slider_feature][download][type] = "git"
+projects[slider_feature][download][url] = "git@github.com:rafaqz/slider_feature"
+projects[slider_feature][type] = "module"
+projects[slider_feature][subdir] = "features"
 
 projects[tags_feature][download][type] = "git"
 projects[tags_feature][download][url] = "git@github.com:rafaqz/tags_feature"
